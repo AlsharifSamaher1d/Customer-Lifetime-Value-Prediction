@@ -85,7 +85,3 @@ Customer-Lifetime-Value-Prediction/
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · XGBoost · Random Forest · Transformers · Qwen3-1.7B
 
-## Author
-
-**Samaher S. Alsharif**  
-M.Sc. in Data Science
