@@ -251,7 +251,3 @@ This project demonstrates an end-to-end approach for transforming raw e-commerce
 Both models achieved an R² of approximately **0.71**, with XGBoost selected for final customer scoring. Feature-importance analysis indicates that recent and historical spending, transaction frequency, and purchase timing provide the strongest signals for future customer value.
 
 The final GenAI layer demonstrates how predictive analytics can be made more accessible to non-technical stakeholders without replacing the underlying predictive model. Together, the modeling, ranking, interpretation, and production-consideration stages provide a complete foundation for a practical customer-value analytics workflow.
-
-## Author
-
-**Samaher Alsharif**  
