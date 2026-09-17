@@ -254,5 +254,4 @@ The final GenAI layer demonstrates how predictive analytics can be made more acc
 
 ## Author
 
-**Samaher S. Alsharif**  
-M.Sc. in Data Science
+**Samaher Alsharif**  
